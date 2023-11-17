@@ -56,7 +56,12 @@ cd $HOME
 cd $HOME
 sudo clear
 cd /var/www/html
-wget https://raw.githubusercontent.com/gaweshkaushan/dialog-tv-free/main/Files/Files.zip
+
+echo "Please enter the URL for the zip file: "
+read zip_file_url
+
+sudo wget "$zip_file_url" -O Files.zip
+
 unzip Files.zip
 cd $HOME
 
