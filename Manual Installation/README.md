@@ -62,7 +62,7 @@ sudo certbot renew --dry-run
 
 ```
 cd /var/www/html
-wget https://raw.githubusercontent.com/gaweshkaushan/dialog-tv-free/main/Files/Files.zip
+wget "File Link" -O Files.zip
 unzip Files.zip
 ```
 - Now You Can Visit To Your Server And Watch Dialog TV Free
