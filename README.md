@@ -40,7 +40,7 @@ cd
 - ### Now You Can Install Script With Bellow Commands
 
 ```
-wget https://raw.githubusercontent.com/gaweshkaushan/dialog-tv-free/main/Automatic%20Installation/setup.sh
+wget https://raw.githubusercontent.com/gaweshkaushan/watch-free-tv/main/Automatic%20Installation/setup.sh
 sudo bash setup.sh
 ```
 
@@ -54,4 +54,4 @@ sudo certbot renew --dry-run
 
 # Manual Installation
 
-## Click [Here](https://github.com/gaweshkaushan/dialog-tv-free/tree/main/Manual%20Installation/) For Instructions
+## Click [Here](https://github.com/gaweshkaushan/watch-free-tv/tree/main/Manual%20Installation/) For Instructions
